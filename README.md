@@ -6,5 +6,6 @@ Using turtle graphics python package this is a game of etch a sketch
 
 w:forward
 s:backwards
-a:rotate counter-clockwise
-d: rotate clockwise
+d:rotate counter-clockwise
+a:rotate clockwise
+c:clear
